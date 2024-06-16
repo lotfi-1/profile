@@ -23,6 +23,7 @@ const config: Config = {
       gray: {
         300: "#cbd5e1",
         600: "#475569",
+        700: "#334155",
       },
     },
     backgroundImage: (theme) => ({
