@@ -2,7 +2,7 @@
 
 # Lotfi Hallas 's Profile Website
 
-![Profile Website Screenshot]("/images/profile.png")
+![Profile Website Screenshot](./public//images/profile.png)
 
 ## Table of Contents
 
