@@ -21,7 +21,9 @@ const config: Config = {
       SilverGray: "#B3B3B3",
       Snow: "#ffffff",
       gray: {
+        200: "#e2e8f0",
         300: "#cbd5e1",
+        400: "#94a3b8",
         600: "#475569",
         700: "#334155",
       },
