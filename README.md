@@ -2,7 +2,7 @@
 
 # Lotfi Hallas 's Profile Website
 
-![Profile Website Screenshot]("./public/images/profile.png")
+![Profile Website Screenshot]("/images/profile.png")
 
 ## Table of Contents
 
@@ -11,8 +11,6 @@
 - [Technologies Used](#technologies-used)
 - [Setup](#setup)
 - [Usage](#usage)
-- [License](#license)
-- [Contact](#contact)
 
 ## About
 
@@ -40,3 +38,4 @@ This repository hosts the code for my personal profile website. It showcases my 
    ```bash
    git clone https://github.com/lotfi-1/profile.git
    ```
+
