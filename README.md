@@ -39,3 +39,6 @@ This repository hosts the code for my personal profile website. It showcases my 
    git clone https://github.com/lotfi-1/profile.git
    ```
 
+## Usage
+
+- Portfolio Link : https://lotfihallas.vercel.app/
