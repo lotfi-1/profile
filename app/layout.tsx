@@ -76,7 +76,6 @@ export default function RootLayout({
             </div>
 
             {/* right side */}
-            {/* right side */}
             <div
               className={`hidden lg:block absolute lg:w-20 lg:relative bg-DeepNightBlack shadow-2xl rounded-xl overflow-hidden`}
             >
